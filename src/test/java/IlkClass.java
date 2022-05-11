@@ -10,7 +10,3 @@ public class IlkClass {
         System.out.println("Chromu kapattiktan sonra bu satir calisiyor");
     }
 }
-
-
-
-
